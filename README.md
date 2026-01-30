@@ -1,4 +1,4 @@
-# 🚀 Portfolio de Programación: Gestión de Archivos y Algoritmia
+# Portfolio de Programación: Gestión de Archivos y Algoritmia
 
 ¡Bienvenido a mi repositorio de prácticas! Aquí recojo una serie de proyectos desarrollados durante el curso, donde exploro desde la manipulación de sistemas de archivos en **Java** hasta el análisis binario y la gestión de memoria dinámica en **C++**.
 
@@ -8,7 +8,7 @@
 
 En este repositorio he organizado mis trabajos según el lenguaje y el desafío técnico planteado. A continuación, detallo qué he realizado en cada documento:
 
-### ☕ Proyectos en Java (I/O y Persistencia)
+### Proyectos en Java (I/O y Persistencia)
 
 * **`PAO_RA1_P1.java` - Gestión de Sistema de Archivos**
     En este primer contacto con la clase `File`, desarrollé una herramienta de consola para interactuar con el sistema operativo. Implementé funciones para listar directorios, crear archivos `.txt`, comprobar permisos y generar nombres de ruta únicos.
@@ -23,7 +23,7 @@ En este repositorio he organizado mis trabajos según el lenguaje y el desafío 
 
 ---
 
-### 💻 Proyectos en C++ (Bajo Nivel y Algoritmia)
+### Proyectos en C++ (Bajo Nivel y Algoritmia)
 
 * **`Manipulació de fitxers.cpp` - Análisis Binario de GIFs**
     En este proyecto me enfoqué en el nivel más bajo de los datos. Realicé un programa que abre archivos en modo binario para leer sus "cabeceras". Mediante operaciones **Bitwise** (desplazamiento de bits) y máscaras, extraigo la versión, dimensiones (ancho/alto) y la tabla global de colores de cualquier imagen GIF.
@@ -38,7 +38,7 @@ En este repositorio he organizado mis trabajos según el lenguaje y el desafío 
 
 ---
 
-## 🛠️ Tecnologías y Conceptos Aplicados
+## Tecnologías y Conceptos Aplicados
 
 | Tecnología | Conceptos Clave |
 | :--- | :--- |
@@ -46,7 +46,7 @@ En este repositorio he organizado mis trabajos según el lenguaje y el desafío 
 | **C++** | Punteros, Memoria Dinámica, Operaciones Binarias, Geometría Analítica. |
 | **Formatos** | TXT, XML, GIF (Estructura Binaria). |
 
-## ⚙️ Instrucciones de Uso
+## Instrucciones de Uso
 
 1. **Java:** Compilar con `javac nombre_archivo.java` y ejecutar con `java nombre_archivo`.
 2. **C++:** Compilar con cualquier estándar C++11 o superior (G++, Visual Studio, CLion). 
